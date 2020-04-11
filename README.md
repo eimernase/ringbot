@@ -28,5 +28,8 @@ You can stop the script by switching back to workspace 1 and hitting CTRL+C.
 Need assistance? You can find me on https://discord.gg/VuvMxRf  
 eimernase
 
+*Donations (RNG)  
+RWJqQhFMNA8TKfjELdmkxR3kUu3Akg6KL7*
+
 *Donations (BTC)  
 1NBxtNyrQJThZbHDudFDMGyfEUMW173pfg*
