@@ -8,6 +8,7 @@ Get needed software
 sudo apt install tigervnc-standalone-server scrot xdotool i3 i3status suckless-tools
 ```
 
+
 Setup VNC  (replace user with your username)  
 ```
 sudo printf '#!/bin/sh\nunset SESSION_MANAGER\nunset DBUS_SESSION_BUS_ADDRESS\nexec i3' > /home/user/.vnc/xstartup && chmod 755 /home/user/.vnc/xstartup  
