@@ -17,7 +17,7 @@ xtigervncviewer -SecurityTypes VncAuth -passwd /home/user/.vnc/passwd :1
 ```
 
 You should now have a new desktop running i3 with a resolution of 1280x800.  
-Open the PoP mining tab in ring-qt wallet on workspace 2 then run ./ringbot.sh from a terminal on workspace 1. That's it!
+Open the PoP mining tab in ring-qt wallet on workspace 2 then run ./ringbot.sh from a terminal on workspace 1.
 
 Donations (BTC)  
 1NBxtNyrQJThZbHDudFDMGyfEUMW173pfg
