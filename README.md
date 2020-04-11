@@ -1,5 +1,5 @@
 # ringbot v0.0.1
-A rudimentary bot for PoP mining Ringcoin (RNG). Released to level the playing field...
+A rudimentary bot for PoP mining Ringcoin (RNG). Published to level the playing field...  
 This is a pretty specific setup based on scrot, xdotool and a virtual desktop running i3.
 
 # On Debian/Ubuntu
