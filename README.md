@@ -5,7 +5,7 @@ Based on scrot, xdotool and a virtual desktop running i3.
 ![ringbot in action](https://github.com/eimernase/ringbot/blob/master/ringbot.gif)
 
 # On Debian/Ubuntu
-Get all the software
+Get all the tools
 ```
 sudo apt install tigervnc-standalone-server scrot xdotool i3 i3status suckless-tools git
 git clone https://github.com/eimernase/ringbot
