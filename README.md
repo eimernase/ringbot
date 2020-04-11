@@ -5,7 +5,7 @@ This is a pretty specific setup based on scrot, xdotool and a virtual desktop ru
 ![ringbot in action](https://github.com/eimernase/ringbot/blob/master/ringbot.gif)
 
 # On Debian/Ubuntu
-Get needed software first  
+Get all the tools
 ```
 sudo apt install tigervnc-standalone-server scrot xdotool i3 i3status suckless-tools
 ```
@@ -19,10 +19,12 @@ xtigervncviewer -SecurityTypes VncAuth -passwd /home/user/.vnc/passwd :1
 ```
 
 You should now have a new desktop running i3 with a resolution of 1280x800.  
-Open the PoP mining tab in ring-qt wallet on workspace 2 then run ./ringbot.sh from a terminal on workspace 1.
+Switch workspaces with cmd+number (i.e. ALT+5 switches to workspace 5 if cmd was set to ALT) and open up terminal windows with cmd+return.
+
+Now open the PoP mining tab in your ring-qt wallet on workspace 2 then run ./ringbot.sh from a terminal window on workspace 1 and watch your bot banging away at the puzzles :)
 
 *Donations (BTC)  
 1NBxtNyrQJThZbHDudFDMGyfEUMW173pfg*
 
-Need help? Ask me on https://discord.gg/VuvMxRf  
+Need assistance? You can find me on https://discord.gg/VuvMxRf  
 eimernase
