@@ -21,6 +21,6 @@ This should give you a new desktop running i3 with a resolution of 1280x800.
 
 You can switch workspaces with cmd+number (i.e. ALT+5 switches to workspace 5 if cmd was set to ALT) and open up terminal windows with cmd+return. To run programs with dmenu (i.e. ring-qt) press cmd+d and type in the name.
 
-Now fire up the PoP mining tab in your ring-qt wallet on workspace 2 then run ./ringbot.sh from a terminal window on workspace 1 and watch your bot bang away at the puzzles :)
+Now fire up the PoP mining tab in your ring-qt wallet on workspace 2 then run ./ringbot.sh from a terminal window on workspace 1 and watch the bot try to solve puzzles, which sometimes works out :)
 
-You can stop the script by switching back to workspace 1 and hitting CTRL+C.
+To stop the script switch back to workspace 1 and hit CTRL+C.
