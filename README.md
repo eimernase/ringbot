@@ -23,4 +23,4 @@ Open the PoP mining tab in ring-qt wallet on workspace 2 then run ./ringbot.sh f
 1NBxtNyrQJThZbHDudFDMGyfEUMW173pfg*
 
 Need help? Ask me on https://discord.gg/VuvMxRf  
-eimernase
+- eimernase
