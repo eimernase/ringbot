@@ -23,8 +23,8 @@ You can switch workspaces with cmd+number (i.e. ALT+5 switches to workspace 5 if
 
 Now fire up the PoP mining tab in your ring-qt wallet on workspace 2 then run ./ringbot.sh from a terminal window on workspace 1 and watch your bot bang away at the puzzles :)
 
-*Donations (BTC)  
-1NBxtNyrQJThZbHDudFDMGyfEUMW173pfg*
-
 Need assistance? You can find me on https://discord.gg/VuvMxRf  
 eimernase
+
+*Donations (BTC)  
+1NBxtNyrQJThZbHDudFDMGyfEUMW173pfg*
