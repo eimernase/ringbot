@@ -3,11 +3,10 @@ A rudimentary bot for PoP mining Ringcoin (RNG).
 This is a pretty specific setup based on scrot, xdotool and a virtual desktop running i3.
 
 # On Debian/Ubuntu
-Get needed software  
+Get needed software first  
 ```
 sudo apt install tigervnc-standalone-server scrot xdotool i3 i3status suckless-tools
 ```
-
 
 Setup VNC  (replace user with your username)  
 ```
