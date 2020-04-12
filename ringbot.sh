@@ -400,7 +400,7 @@ function run() {
 
 while :; do
 	# Scan for games every x seconds and start if possible
-	sleep 0.2
+	sleep 0.5
 	scrot assets/$screenres/gamecheck_screenshot.png
 	convert assets/$screenres/gamecheck_screenshot.png -crop 438x77+17+177 assets/$screenres/gamecheck_new.png 
 	GAMECHECK_NEW="$(cat assets/$screenres/gamecheck_new.png | base64 | tail -n +20 | head -n -20)"
