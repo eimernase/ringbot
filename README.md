@@ -4,7 +4,7 @@ Based on scrot, xdotool and a virtual desktop running i3.
 
 ![ringbot in action](https://github.com/eimernase/ringbot/blob/master/ringbot.gif)
 
-# Debian/Ubuntu
+# Debian
 Get all the tools
 ```
 sudo apt install tigervnc-standalone-server scrot xdotool i3 i3status suckless-tools git
@@ -25,6 +25,5 @@ Now fire up the PoP mining tab in your ring-qt wallet on workspace 2 then run ./
 
 To stop the script switch back to workspace 1 and hit CTRL+C.
 
-# Windows
-Boot up a Debian or Ubuntu VM and set i3 as your window manager with a resolution of 1280x800. Then continue as described above but skip the VNC stuff.
-
+# Other OS
+It was only testet on Debian but could also work on Ubuntu and other distributions or even in a Linux VM running under Windows.
