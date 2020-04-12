@@ -4,7 +4,7 @@ Based on scrot, xdotool and a virtual desktop running i3.
 
 ![ringbot in action](https://github.com/eimernase/ringbot/blob/master/ringbot.gif)
 
-# On Debian/Ubuntu
+# Debian/Ubuntu
 Get all the tools
 ```
 sudo apt install tigervnc-standalone-server scrot xdotool i3 i3status suckless-tools git
@@ -24,3 +24,7 @@ You can switch workspaces with cmd+number (i.e. ALT+5 switches to workspace 5 if
 Now fire up the PoP mining tab in your ring-qt wallet on workspace 2 then run ./ringbot.sh from a terminal window on workspace 1 and watch the bot try to solve puzzles, which sometimes works out :)
 
 To stop the script switch back to workspace 1 and hit CTRL+C.
+
+# Windows
+Boot up a Debian or Ubuntu VM and set i3 as your window manager with a resolution of 1280x800. Then continue as described above but skip the VNC stuff.
+
